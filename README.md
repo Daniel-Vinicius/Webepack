@@ -50,7 +50,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  npm i 
  # Execute a aplicação em modo de desenvolvimento
  $ npm start 
- # O servidor inciará na porta:9000
+ # O servidor iniciará na porta:9000
  # Acesse http://localhost:9000
  ````
 <p> Quando você tiver realizado todos os passos do projeto verá a  <a href="#imagem" >imagem do projeto</a> </p>
