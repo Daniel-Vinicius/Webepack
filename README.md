@@ -1,11 +1,9 @@
 <h1> Webepack config </h1>
 
-<p id="sobre" align="center">Página simples com a configuração completa do Webepack tanto para produção quanto para desenvolvimento
+<p id="sobre" align="center">🎁 Página simples com a configuração completa do Webepack tanto para produção quanto para desenvolvimento
 
-[![GitHub license](https://img.shields.io/github/license/Daniel-Vinicius/Webepack)](https://github.com/Daniel-Vinicius/Webepack/blob/master/LICENSE)
- 
+[![GitHub license](https://img.shields.io/github/license/Daniel-Vinicius/Webepack)](https://github.com/Daniel-Vinicius/Webepack/blob/master/LICENSE) 
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
-
 [![GitHub stars](https://img.shields.io/github/stars/Daniel-Vinicius/Webepack?color=FFF300&style=social)](https://github.com/Daniel-Vinicius/Webepack/stargazers)
 
 <h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Webepack/blob/master/github/Imagem.JPG" />  </h2>
